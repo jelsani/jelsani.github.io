@@ -19,7 +19,7 @@
   padding: 10px;
   color: black;
   border-style: solid;
-  border-radius: 15px;
+  border-radius: auto;
   width: 1250px;
   height: 100px;
   justify-content: space-between;
